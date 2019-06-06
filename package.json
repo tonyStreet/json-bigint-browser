@@ -1,0 +1,30 @@
+{
+  "name": "json-bigint-parser-browser",
+  "version": "1.0.4",
+  "description": "json parser with json-bigint support for browser",
+  "main": "json-bigint-browser.js",
+  "dependencies": {
+    "json-bigint": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyStreet/json-bigint-browser.git"
+  },
+  "keywords": [
+    "json-bigint",
+    "json-bigint-browser",
+    "json",
+    "parser",
+    "json parser"
+  ],
+  "author": "anthony.lansangan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyStreet/json-bigint-browser/issues"
+  },
+  "homepage": "https://github.com/tonyStreet/json-bigint-browser#readme"
+}
