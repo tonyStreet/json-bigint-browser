@@ -4,7 +4,7 @@
   "description": "json parser with json-bigint support for browser",
   "main": "json-bigint-browser.js",
   "dependencies": {
-    "json-bigint": "^0.3.0"
+    "json-bigint": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
